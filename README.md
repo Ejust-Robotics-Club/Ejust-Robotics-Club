@@ -48,7 +48,7 @@ that will be hosted in E-JUST.
 
 3.[MATLAB](https://ejust-robotics-club.github.io/MATLAB/)
 
-4.[Sensors & Actuators](url)
+4.[Sensors & Actuators](https://ejust-robotics-club.github.io/Sensors-Actuators/)
 
 5.[Fusion 360](url)
 
