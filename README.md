@@ -1,12 +1,12 @@
-## Welcome to Robotics Club Family
+# Welcome to Robotics Club Family
 **Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-### Club Mission
+## Club Mission
 Robotics Club aims at providing unique, challenging learning environments that
 inspire E-JUST students to apply and improve their science, technology, engineering, and math
 skills. Through a series of learning sessions, workshops, events, and seminars, we aim to keep up with the frontiers in the robotics field, and to organize and join competitions.
 
-### Club Activties
+## Club Activties
 1. The club will provide a series of learning sessions held by our supervisors, instructors,
 engineers, or members to help our members build robot systems from scratch.
 
@@ -36,7 +36,7 @@ that will be hosted in E-JUST.
 
 9.  The club will have commerical branch which aims to marketing and selling developed robot kits built by club members.
 
-### Summer Campaign Courses
+## Summer Campaign Courses
 
 - At this campaign, we will provide the students with unique courses that are considered as basics to help members get involved into robotics field. Those courses are selected so that they don't conflict or repeat fuclty courses, and concentrarte at practical aspects.
 - This campaign is necessary for students and members to be able to hold and participate in upcoming activities and workshops. Those activities and workshops are to be held (on campus) by the start of the next semester (fall 2020) to implement what the students have learned throughout the campaign.
