@@ -44,12 +44,12 @@ that will be hosted in E-JUST.
 
 1.[Digital Image Processing](https://ejust-robotics-club.github.io/Digital-Image-Processing/)
 
-2.[PCB Design](url)
+2.[PCB Design](https://ejust-robotics-club.github.io/PCB-Design/)
 
 3.[MATLAB](https://ejust-robotics-club.github.io/MATLAB/)
 
 4.[Sensors & Actuators](https://ejust-robotics-club.github.io/Sensors-Actuators/)
 
-5.[Fusion 360](url)
+5.[Fusion 360](https://ejust-robotics-club.github.io/Fusion-360/)
 
 For more interactive and quries, please follow our [Facebook](url) page 
