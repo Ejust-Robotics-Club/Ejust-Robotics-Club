@@ -41,10 +41,15 @@ that will be hosted in E-JUST.
 - At this campaign, we will provide the students with unique courses that may be considered to be a basics to get involved into robotics field dosen't conflict with their fucluty courses, and concentrarte into practical aspects.
 - This step is very necessary to start in other activities and workshops to implement what we have learned once the studens return to the university at the new semestr.
 - To follow the launched courses, please press on below links
+
 1.[Digital Image Processing](url)
+
 2.[PCB Design](url)
+
 3.[MATLAB](url)
+
 4.[Sensors & Actuators](url)
+
 5.[Fusion 360](url)
 
 For more interactive and quries, please follow our [Facebook](url) page 
