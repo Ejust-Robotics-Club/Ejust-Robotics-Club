@@ -31,7 +31,6 @@ competitions, such as “Minesweeper”, “Let’s make a robot”, “ROV”, 
 
 7. The club will also seek to create a new international competition in the field of robotics
 that will be hosted in E-JUST.
-
 8. The club will provide the club members with needed supervision and fund to publish their papers in honorable scientific journals and conferences.
 
 9.  The club will have commerical branch which aims to marketing and selling developed robots kit that builds by club members.
