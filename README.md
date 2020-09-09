@@ -1,13 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Robtics Club Family
+Note:Please Stay safe and in good health and take necessary precautions and commit to the preventive measures
 
-You can use the [editor on GitHub](https://github.com/Ejust-Robotics-Club/Ejust-Robotics-Club/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Club Vision
+The vision of the Robotics Club is to inspire students to participate in competitions,
+enrich their academic experience, knowledge and practical skills in the robotics field, linking
+between the theoretical and practical studies with industrial relevance.
+### Club Mission
+The Robotics Club aims at providing unique, challenging learning environments that
+inspires E-JUST students to apply and improve their science, technology, engineering, and math
+skills. By a series of learning sessions, workshops, events and seminars, we aim to keep up with
+the frontiers in robotics field, and to organize and join competitions.
 ```markdown
 Syntax highlighted code block
 
