@@ -36,7 +36,11 @@ that will be hosted in E-JUST.
 
 9.  The club will have commerical branch which aims to marketing and selling developed robots kit that builds by club members.
 
--jj
+### Summer Campaign Courses
+
+At this campaign we will provide the students with unique courses that may be considered to be a basics to get involved into robotics field dosen't conflict with their fucluty courses, and concentrarte into practical aspects.
+This step is very necessary to start in other activities and workshops to imlement what we have learned once the studens return to the university at the new semestr.
+
 
 ```markdown
 Syntax highlighted code block
