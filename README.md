@@ -8,7 +8,7 @@ skills. Through a series of learning sessions, workshops, events, and seminars, 
 
 ### Club Activties
 1. The club will provide a series of learning sessions held by our supervisors, instructors,
-engineers or members to help our members build robot systems from scratch.
+engineers, or members to help our members build robot systems from scratch.
 
 2. The club will also organize workshops, and students will aim at building and
 programming robots and systems to achieve challenging functions/tasks. These
@@ -31,6 +31,10 @@ competitions, such as “Minesweeper”, “Let’s make a robot”, “ROV”, 
 
 7. The club will also seek to create a new international competition in the field of robotics
 that will be hosted in E-JUST.
+
+8. The club will provide the club members with needed supervision and fund to publish their papers in honorable scientific journals and conferences.
+
+9.  The club will have commerical branch which aims to marketing and selling developed robots kit that builds by club members.
 
 ```markdown
 Syntax highlighted code block
