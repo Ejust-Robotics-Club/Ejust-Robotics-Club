@@ -46,7 +46,7 @@ that will be hosted in E-JUST.
 
 2.[PCB Design](url)
 
-3.[MATLAB](url)
+3.[MATLAB](https://ejust-robotics-club.github.io/MATLAB/)
 
 4.[Sensors & Actuators](url)
 
