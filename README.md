@@ -36,6 +36,8 @@ that will be hosted in E-JUST.
 
 9.  The club will have commerical branch which aims to marketing and selling developed robots kit that builds by club members.
 
+-jj
+
 ```markdown
 Syntax highlighted code block
 
